@@ -1,4 +1,7 @@
-### Hi there 👋
+## 안녕하세요.
+
+효율적이고 의미있는 코드를 구현하는데 관심이 많은 백엔드 개발자 최지선입니다. 
+
 
 <!--
 **jisunnchoi/jisunnchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
