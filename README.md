@@ -3,7 +3,7 @@
 
 Backend developer
 
-**Interests**
+**Interests** <br>
 Python, Django
 
 [![Readme Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=Github&link='')]('') 
