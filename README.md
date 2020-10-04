@@ -21,4 +21,4 @@ Machine Learning<br>
 <br>
 <br>
 <img align="left" width=400 alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisun-choi&layout=compact">
-<img align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=jisun-choi&show_icons=true">
+<img align="right" width=450 alt="github stats" src="https://github-readme-stats.vercel.app/api?username=jisun-choi&show_icons=true">
