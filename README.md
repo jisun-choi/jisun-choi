@@ -8,7 +8,9 @@ Backend developer 👩🏻‍💻  <br>
 
 
 _**Interests**_<br>
-Python, Django<br>
+Python<br>
+Django<br>
+Flask<br>
 Golang<br>
 Computer Science<br>
 Machine Learning<br>
