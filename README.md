@@ -12,8 +12,6 @@ Python<br>
 Django<br>
 Flask<br>
 Golang<br>
-Computer Science<br>
-Machine Learning<br>
 
 
 [![Readme Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=Github&link='')]('') 
