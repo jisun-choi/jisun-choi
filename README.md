@@ -1,8 +1,6 @@
 
 # 🍟
 
-## Backend developer
-
 _**Interests**_<br>
 Python<br>
 Django<br>
