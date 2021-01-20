@@ -1,11 +1,7 @@
 
-### ⚡️
+# 🍟
 
-Backend developer 👩🏻‍💻  <br>
-<br>
-기록하는 것을 좋아합니다. <br>
-와인🍷과 맥주🍺를 사랑합니다. 
-
+Backend developer<br>
 
 _**Interests**_<br>
 Python<br>
