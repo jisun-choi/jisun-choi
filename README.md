@@ -6,6 +6,8 @@ Python<br>
 Django<br>
 Flask<br>
 Golang<br>
+Computer Science<br>
+Mathematics<br>
 
 
 [![Readme Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=Github&link='')]('') 
