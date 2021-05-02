@@ -1,13 +1,10 @@
-
-# 🍟
-
 _**Interests**_<br>
 Python<br>
-Django<br>
-Flask<br>
 Golang<br>
-Computer Science<br>
-Mathematics<br>
+Computational Thinking<br>
+Film Cameras<br>
+Go green<br>
+
 
 
 [![Readme Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=Github&link='')]('') 
